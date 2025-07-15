@@ -1,13 +1,73 @@
 # 💫 About Me:
-- 👋 Hi, I’m @pranaypalem<br>- 👀 I’m interested in Robotic perception in various environments<br>- 🌱 I’m currently learning Robotic simulation and perception<br><br>## Skill Set<br><br>- **Reinforcement Learning (RL):**<br>  - Experienced in designing and training RL algorithms (Q-learning, DQN, PPO, etc.) for robotic control tasks.<br>  - Implemented RL solutions for path-following, pick-and-place, and motion optimization.<br><br>- **SLAM (Simultaneous Localization and Mapping):**<br>  - Familiar with indoor and outdoor mapping and localization tools like GMapping, Hector SLAM, and RTAB-Map.<br>  - Skilled at integrating sensor data (LIDAR, depth cameras) for robust map building and pose estimation.<br><br>- **ROS (Robot Operating System):**<br>  - Proficient in setting up ROS-based development environments, creating custom nodes, and leveraging ROS tools (rviz, rqt, rosbag).<br>  - Experienced with simulation in Gazebo and real-world deployment on robotic platforms.<br><br>- **Robotic Perception:**<br>  - Skilled in using libraries such as OpenCV and PCL for object detection, feature extraction, and point cloud processing.<br>  - Developed perception pipelines for tasks like environmental mapping and scene understanding.<br><br>- **Foldable Robotics:**<br>  - Researched and developed prototypes focusing on foldable mechanisms for efficient manufacturing and compact deployment.<br>  - Explored novel materials and designs to enable portable, space-saving robotic solutions.<br><br>- **Artificial Potential Field (APF):**<br>  - Implemented APF-based navigation for mobile robots, enhancing obstacle avoidance and path planning.<br>  - Experimented with optimizing APF to mitigate common issues like local minima.<br>---><br>
+- 👋 Hi, I’m @pranaypalem  
+- 👀 I’m interested in Robotic perception in various environments  
+- 🌱 I’m currently learning Robotic simulation and perception  
 
+## ⚙️ Skill Set:
+
+### 🧠 Reinforcement Learning (RL):
+- Experienced in designing and training RL algorithms (Q-learning, DQN, PPO, etc.) for robotic control tasks  
+- Implemented RL solutions for path-following, pick-and-place, and motion optimization  
+
+### 🗺️ SLAM (Simultaneous Localization and Mapping):
+- Familiar with indoor and outdoor mapping and localization tools like GMapping, Hector SLAM, and RTAB-Map  
+- Skilled at integrating sensor data (LIDAR, depth cameras) for robust map building and pose estimation  
+
+### 🧩 ROS (Robot Operating System):
+- Proficient in setting up ROS-based development environments, creating custom nodes, and leveraging ROS tools (rviz, rqt, rosbag)  
+- Experienced with simulation in Gazebo and real-world deployment on robotic platforms  
+
+### 👁️ Robotic Perception:
+- Skilled in using libraries such as OpenCV and PCL for object detection, feature extraction, and point cloud processing  
+- Developed perception pipelines for tasks like environmental mapping and scene understanding  
+
+### 📦 Foldable Robotics:
+- Researched and developed prototypes focusing on foldable mechanisms for efficient manufacturing and compact deployment  
+- Explored novel materials and designs to enable portable, space-saving robotic solutions  
+
+### 🧲 Artificial Potential Field (APF):
+- Implemented APF-based navigation for mobile robots, enhancing obstacle avoidance and path planning  
+- Experimented with optimizing APF to mitigate common issues like local minima  
+
+---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranaypalem/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pranaypalem_39182) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranay[alem@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranaypalem/)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pranaypalem_39182)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranayalem@gmail.com)  
+
+---
 
 # 💻 Tech Stack:
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+
+---
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pranaypalem&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pranaypalem&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=pranaypalem&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=pranaypalem&theme=radical&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranaypalem&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
