@@ -19,8 +19,7 @@
 ---
 
 ## ⚙️ MLOps & Model Deployment
-
-- ✅ Completed *Complete MLOps Bootcamp with End-to-End Project Deployment*  
+  
 - 🚢 Deployed models in production using **Docker**, **AWS SageMaker**, and **TensorRT**  
 - 🧪 Tracked experiments with **MLflow**, managed data & model versioning via **DVC** and **DagsHub**  
 - 🌀 Orchestrated ML pipelines using **Apache Airflow + Astronomer**  
