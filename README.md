@@ -95,11 +95,12 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=pranaypalem&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=pranaypalem&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranaypalem&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=pranaypalem&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com?user=pranaypalem&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranaypalem&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
 ## 🚀 Project Showcase
 
 ### 🦿 [Foldable Robotics Design](https://github.com/pranaypalem/foldable-robotics)
