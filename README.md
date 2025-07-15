@@ -93,14 +93,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=pranaypalem&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com?user=pranaypalem&theme=default&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranaypalem&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 ## 🚀 Project Showcase
 
 ### 🦿 [Foldable Robotics Design](https://github.com/pranaypalem/foldable-robotics)
@@ -111,6 +103,14 @@ Designed an optimization pipeline to identify and tune dynamic parameters of MuJ
 
 ### 🤖 [RL: PPO vs TRPO Benchmarking](https://github.com/pranaypalem/RL-ppo-vs-trpo)
 Benchmarked PPO and TRPO algorithms using Stable-Baselines3 in OpenAI Gym for continuous robotic control, achieving stable training with 250+ episodic reward.
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=pranaypalem&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com?user=pranaypalem&theme=default&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranaypalem&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
