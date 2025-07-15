@@ -1,3 +1,4 @@
+
 # 💫 About Me
 
 👋 Hi, I’m @pranaypalem  
@@ -11,7 +12,7 @@
 
 - Built and deployed deep learning models (Faster R-CNN, YOLOv8, ResNet) for healthcare and robotic vision  
 - Applied self-supervised techniques like **SimCLR** and **BYOL** on medical datasets (NIH Chest X-rays, Mammo)  
-- Trained RL agents (PPO, TRPO, SAC) in Isaac Sim, MuJoCo, and OpenAI Gym for continuous control and motion planning  
+- Trained RL agents (PPO, TRPO, SAC) in **Isaac Lab**, **MuJoCo**, and OpenAI Gym for continuous control and motion planning  
 - Used Grad-CAM, attention maps, and class re-weighting for explainability and imbalance handling  
 - Integrated model tuning, augmentation, and real-time inference optimization using PyTorch/TensorFlow + TensorRT  
 
@@ -32,10 +33,11 @@
 ## 🤖 Robotics & Simulation
 
 - Developed full-stack robotic systems integrating LiDAR-based SLAM, RRT exploration, and object detection (YOLOv8)  
-- Simulated agents in Isaac Sim and MuJoCo with adaptive servo dynamics and domain randomization  
+- Simulated dynamic robotic agents using **Isaac Sim**, **Isaac Lab**, and **MuJoCo (DeepMind)**  
 - Designed quaternion-based foldable robots and improved sim-to-real performance using scikit-optimize  
-- Experienced in **ROS 2**, **MoveIt 2**, **Nav2**, and **URDF** integration with planning & control stacks  
-- Deployed Jetson-based robotic inference pipelines with real-time latency under 50ms  
+- Integrated navigation and control pipelines using **ROS 2**, **MoveIt 2**, **Nav2**, and **URDF**  
+- Deployed Jetson-based inference pipelines with sub-50ms latency  
+- Developed interactive robotic systems in **Unity** for perception and control prototyping  
 
 ---
 
@@ -65,9 +67,11 @@
 ![MoveIt 2](https://img.shields.io/badge/MoveIt2-%23121011.svg?style=for-the-badge&logo=moveit&logoColor=white)
 ![Nav2](https://img.shields.io/badge/Nav2-%23000000.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![Isaac Sim](https://img.shields.io/badge/IsaacSim-%23000000.svg?style=for-the-badge&logo=nvidia&logoColor=green)
-![MuJoCo](https://img.shields.io/badge/MuJoCo-%23121011.svg?style=for-the-badge&logo=robotframework&logoColor=white)
+![Isaac Lab](https://img.shields.io/badge/IsaacLab-%23000000.svg?style=for-the-badge&logo=nvidia&logoColor=green)
+![MuJoCo](https://img.shields.io/badge/MuJoCo-%2300AEEF.svg?style=for-the-badge&logo=google&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-%23black.svg?style=for-the-badge&logo=ultralytics&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![TensorRT](https://img.shields.io/badge/TensorRT-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### 🧮 Programming & Data
@@ -95,7 +99,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranaypalem&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
 ## 🚀 Project Showcase
 
 ### 🦿 [Foldable Robotics Design](https://github.com/pranaypalem/foldable-robotics)
