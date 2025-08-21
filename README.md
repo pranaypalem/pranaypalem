@@ -18,16 +18,6 @@
 
 ---
 
-## ⚙️ MLOps & Model Deployment
-  
-- 🚢 Deployed models in production using **Docker**, **AWS SageMaker**, and **TensorRT**  
-- 🧪 Tracked experiments with **MLflow**, managed data & model versioning via **DVC** and **DagsHub**  
-- 🌀 Orchestrated ML pipelines using **Apache Airflow + Astronomer**  
-- 🔁 Automated CI/CD with **GitHub Actions**, ensuring robust model updates and testing  
-- 📈 Monitored live inference metrics using **Grafana** + **PostgreSQL dashboards**  
-- 🧠 Built ETL + NLP pipelines with HuggingFace and deployed transformer models in real-world workflows  
-
----
 
 ## 🤖 Robotics & Simulation
 
